@@ -5,3 +5,5 @@
 - Is there any limit of how many versions (skipped) or compared together? 
 - Is this feature for any specific type of page? or for specific user group?
 - Should User have restore a section / version action? How to handle edge cases when modification is over multiple version?
+- How to handle new version published while user is reviewing another history?
+- Should this feature be configurable by user? If yes, how to handle the audit log / page view status update for such users?
